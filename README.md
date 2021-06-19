@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about blockchains and cryptocurrency
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me? gunner.andersen.gil@gmail.com
+- 📁 My portfolio @ www.gunnerandersen.com
 
 <!---
 GunnerAg/GunnerAg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
