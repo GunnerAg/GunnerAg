@@ -1,4 +1,4 @@
-- NOTICE: I currently use Bitbucket on a daily basis so my 'newest' repos here are mostly private or drafts.
+- NOTICE: I currently use Azure on a daily basis so my 'newest' repos here are mostly private or drafts.
 -  👋 Hi, I’m @GunnerAg
 - 👀 I’m interested in music and tech!
 - 🌱 I’m currently learning about blockchains and cryptocurrency
